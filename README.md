@@ -26,11 +26,11 @@ It is not recommended to manually change any of the fields in the external sessi
 
 The "XUID" and "Client ID" fields in the external session window are normally empty and don't really do anything, they are just there for accessibility since its still account data stored within your game client, it may have a more significant use in the future.
 
-The "Copy From Clipboard" button is a string encoded in hex and is decoded on your client with the "Load From Clipboard" button.
+The "Copy To Clipboard" button when you click it you get a string copied to your clipboard, that string is encoded in hex and is decoded on your client with the "Load From Clipboard" button.
 
 The mod has not been tested on MacOS or Linux.
 
-### Requires:
+### Requirements:
 
 Fabric API 0.68.0 (or higher) 1.19.2 (link: https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/4123950)
 Fabric Loader Version: 0.14.11 (or higher) 1.19.2 (link to the installer: https://fabricmc.net/use/installer)
