@@ -16,8 +16,6 @@ Step 6. The person you are sharing your account with should now be logged onto y
 
 ### Other mod features:
 
-You can edit the case of your username (simply change the username field in the external session window), login, and still be able to join servers with the case changed on your username.
-
 The "Load Current Account" button in the external session window will reset all the fields in the window to the account you are currently on (compatible with mods that let you log onto a different account without restarting the game).
 
 ### Notes:
