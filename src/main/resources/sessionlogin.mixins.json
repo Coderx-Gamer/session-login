@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.sessionlogin.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "MultiplayerScreenMixin",
+    "accessor.SessionAccessor",
+    "accessor.MinecraftClientAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
