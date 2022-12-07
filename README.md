@@ -36,4 +36,21 @@ Fabric API 0.68.0 (or higher) 1.19.2 (link: https://www.curseforge.com/minecraft
 Fabric Loader Version: 0.14.11 (or higher) 1.19.2 (link to the installer: https://fabricmc.net/use/installer)
 Minecraft: 1.19.2
 
+### Downloading/Building:
+
+Download a pre-compiled jar at: https://github.com/Coderx-Gamer/session-login/releases
+
+Building the mod from src:
+
+---
+
+Step 1. Download the entire folder of a github branch for this mod on the main github page.
+Step 2. Navigate to that folder and open a terminal window there in that directory.
+Step 3. Run "./gradlew build" in the terminal and wait for it to finish building.
+Step 4. Navigate to build/libs in the directory and the largest jar file should be your compiled jar file mod.
+
+---
+
+Contact: Coderx Gamer#9335 on Discord.
+
 ---
