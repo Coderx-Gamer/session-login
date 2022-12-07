@@ -51,6 +51,7 @@ Step 4. Navigate to build/libs in the directory and the largest jar file should 
 
 ---
 
-Contact: Coderx Gamer#9335 on Discord.
+## Contact:
+Coderx Gamer#9335 on Discord.
 
 ---
