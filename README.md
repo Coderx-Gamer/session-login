@@ -1,5 +1,5 @@
 # Session Login
-A simple Minecraft mod that allows you to share accounts with people without sharing your email and password, uses your session ID to do so, your session ID has no connection to your email or password and can be invalidated by simply quitting the game client with your account running on it (may not be compatible with macOS or Linux)
+A simple Minecraft mod that allows you to share accounts with people without sharing your email and password, uses your session ID to do so, your session ID has no connection to your email or password (may not be compatible with macOS or Linux)
 .
 
 ### How to use it:
