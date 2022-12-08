@@ -20,6 +20,8 @@ The "Load Current Account" button in the external session window will reset all 
 
 ### Notes:
 
+Sometimes the external account window will start minimized, so you need to alt-tab into it, or hover over the minecraft window and select it.
+
 It is not recommended to manually change any of the fields in the external session window as in most cases you will just not be able to join any servers with a modified configuration like that.
 
 The "XUID" and "Client ID" fields in the external session window are normally empty and don't really do anything, they are just there for accessibility since its still account data stored within your game client, it may have a more significant use in the future.
