@@ -2,6 +2,10 @@
 A simple Minecraft mod that allows you to share accounts with people without sharing your email and password, uses your session ID to do so, your session ID has no connection to your email or password (may not be compatible with macOS or Linux)
 .
 
+
+
+# THIS IS NOT A RAT IT IS FOR LOGGING IN USING SESSIONS, NOT STEALING THEM!
+
 ### How to use it:
 ---
 
@@ -19,6 +23,8 @@ Step 6. The person you are sharing your account with should now be logged onto y
 The "Load Current Account" button in the external session window will reset all the fields in the window to the account you are currently on (compatible with mods that let you log onto a different account without restarting the game).
 
 ### Notes:
+
+Sometimes the external account window will start minimized, so you need to alt-tab into it, or hover over the minecraft window and select it.
 
 It is not recommended to manually change any of the fields in the external session window as in most cases you will just not be able to join any servers with a modified configuration like that.
 
