@@ -12,14 +12,15 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
 @Mixin(MultiplayerScreen.class)
 public class MultiplayerScreenMixin extends Screen {
-    public MultiplayerScreenMixin(Text title) {
+    protected MultiplayerScreenMixin(Text title) {
         super(title);
     }
+    int l = this.height / 4 + 5;
 
     @Inject(at = @At("TAIL"), method = "init")
     public void init(CallbackInfo ci) {
-        addDrawableChild(new ButtonWidget(5, 5, 120, 20, Text.of("Session"), (b) -> {
+        this.addDrawableChild(ButtonWidget.builder(Text.of("session login"), (button) -> {
             SessionGui.defaultGui.toggleVisibility();
-        }));
+        }).dimensions(this.width / 2 -475, l , 98, 20).build());
     }
 }
