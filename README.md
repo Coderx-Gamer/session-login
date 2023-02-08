@@ -52,8 +52,3 @@ Step 3. Run "./gradlew build" in the terminal and wait for it to finish building
 Step 4. Navigate to build/libs in the directory and the largest jar file should be your compiled jar file mod.
 
 ---
-
-## Contact:
-Coderx Gamer#9335 on Discord.
-
----
